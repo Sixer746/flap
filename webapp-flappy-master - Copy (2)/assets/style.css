@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+  font-family: Comic  Sans MS;
+}
+
+body {
+  color: darkred;
+  font-family: Orator-Std, monospace;
+  background-image: url("backflap.png")
+}
+
+a {
+  color: red;
+  font-size: 50px
+}
